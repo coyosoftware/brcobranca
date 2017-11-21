@@ -109,6 +109,7 @@ module Brcobranca
     autoload :Santander,     'brcobranca/boleto/santander'
     autoload :Banestes,      'brcobranca/boleto/banestes'
     autoload :Banrisul,      'brcobranca/boleto/banrisul'
+    autoload :Inter,         'brcobranca/boleto/inter'
 
     # Módulos para classes de template
     module Template
